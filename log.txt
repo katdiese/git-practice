@@ -1,0 +1,6 @@
+Kathleens-MacBook-Air:git-practice Kathy_Dieser$ git log
+commit e317d49c48d3ae1ee2312ac67af323d52537fd68
+Author: Kathleen Dieser <Kathy_Dieser@Kathleens-MacBook-Air.local>
+Date:   Tue Dec 15 19:41:29 2015 -0700
+
+    I am adding files to git!
